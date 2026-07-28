@@ -31,5 +31,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0233-number-of-digit-one](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0233-number-of-digit-one) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
