@@ -4,7 +4,7 @@ public:
     {
         
 
-        long long original = x;   // save original value
+        long long original = x;   
         long long iNum = x;
         long long iRev = 0;
         int iDigit = 0;
@@ -22,6 +22,6 @@ public:
             iNum = iNum / 10;
         }
 
-        return iRev == original;   // compare with the ORIGINAL number
+        return iRev == original; 
     }
 };
