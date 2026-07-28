@@ -6,6 +6,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0009-palindrome-number) |
 | [0233-number-of-digit-one](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0258-add-digits) |
 ## Simulation
