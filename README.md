@@ -8,6 +8,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0258-add-digits) |
 ## Simulation
@@ -17,11 +18,13 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +49,8 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
