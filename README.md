@@ -40,8 +40,10 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
