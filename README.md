@@ -11,6 +11,7 @@
 | [0204-count-primes](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/1492-the-kth-factor-of-n) |
 ## Simulation
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/1492-the-kth-factor-of-n) |
 ## Array
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/0204-count-primes) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/yashavinashmirge-del/LEETCODE_PRACTICE/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
